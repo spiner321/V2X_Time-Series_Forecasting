@@ -1,0 +1,11 @@
+tsai
+pandas
+numpy
+glob2
+wandb
+matplotlib
+scikit-learn==1.1.3
+torch
+opencv-python
+scipy
+nbformat==5.5.0
