@@ -9,3 +9,4 @@ torch
 opencv-python
 scipy
 nbformat==5.5.0
+jupyter
